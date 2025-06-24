@@ -11,4 +11,4 @@ The system first learns from structured **medical data (ADE-Corpus and CADEC)** 
 - Detect ADEs in SNS data by identifying drug-effect relationships.
   
 ## 🧠 Architecture
-![Architecture](https://github.com/JinSeong0115/Drug-Sideeffect-Ensemble-Model/blob/main/architecture.svg)
+![Architecture](https://github.com/JinSeong0115/Drug-Sideeffect-Ensemble-Model/architecture.svg)
